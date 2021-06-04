@@ -1,13 +1,12 @@
 <!DOCTYPE html>
 <html lang="pt-br">
   <head>
-    <title>Laravel - Notifications Telegram</title>
     <meta charset="utf-8">
   </head>
   <body>
       <h1> Projeto Feito em video aulas sobre notificação no telegram </h1>
 
-      <h4>Configure seu arquivo .env </h4>
+      <h1>Configure seu arquivo .env </h1>
       <p>
         DB_CONNECTION=mysql
         DB_HOST=127.0.0.1
