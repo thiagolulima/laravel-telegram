@@ -31,7 +31,11 @@ Composer install
 
 ## Agora adicione um usuário com email na sua base antes de testar. 
 
+## Video aulas 
 
+<a href="https://www.youtube.com/watch?v=p1D4FkFyoFA"> Notifications Parte 1 </a>
+<br>
+<a href="https://www.youtube.com/watch?v=Uy7nyr5b6DM"> Notifications Parte 2 </a>
 
 
 
